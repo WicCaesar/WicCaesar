@@ -4,8 +4,9 @@ I love languages (the ones you execute with your tongue), so I have my way with 
 I design, but not for a living.
 
 I'm learning how to code at **42.rio**! Soon there'll be plenty of green squares below to make me proud. 🤓
+I'm interested in accessibility and user interfaces.
 
-Thanks for your interest!
+Thanks for reading so far!
 
 *>: 1. privacy*<br>
 *>: 2. piracy_*
