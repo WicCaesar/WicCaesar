@@ -1,4 +1,4 @@
-### Hello, world!
+### Hello, world! 🌎🌍🌏
 
 I love languages (the ones you execute with your tongue), so I have my way with words. I teach English, translate, copywrite and proofread. I design, but not for a living.
 
