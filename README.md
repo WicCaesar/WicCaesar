@@ -8,7 +8,7 @@ I'm learning how to code at **42|RIO**! Soon there'll be plenty of green squares
 I'm interested in accessibility and user interfaces.<br>
 <br>
 Thanks for reading so far!<br>
-<br>
+
 *>: 1. privacy*<br>
 *>: 2. piracy_*
 <br>
