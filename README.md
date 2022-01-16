@@ -4,7 +4,7 @@ I love the languages you can execute with your tongue, now I'm trying to learn t
 I teach English, translate, copywrite and proofread.<br>
 I design, but not for a living.<br>
 
-I'm learning how to code at **42|RIO**! Soon there'll be plenty of green squares below to make me proud. 🤓<br>
+I'm learning how to code at **42|RIO** and Harvard's **CS50**! Soon there'll be plenty of green squares below to make me proud. 🤓<br>
 I'm interested in accessibility and user interfaces.<br>
 
 Thanks for reading so far!<br>
